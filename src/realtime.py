@@ -41,12 +41,12 @@ log_path = 'data_ingestion/logs'
 # db = sqlite3.connect("banknifty2024_data.db", check_same_thread=False)
 # c = db.cursor()
 
-APP_ID = "FU2R22RCQA"  # App ID from myapi dashboard is in the form appId-appType. Example - EGNI8CE27Q-100, In this code EGNI8CE27Q will be APP_ID and 100 will be the APP_TYPE
+APP_ID = "XXXXX"  # App ID from myapi dashboard is in the form appId-appType. Example - EGNI8CE27Q-100, In this code EGNI8CE27Q will be APP_ID and 100 will be the APP_TYPE
 APP_TYPE = "100"
-SECRET_KEY = 'G6X9B6TEOG'
+SECRET_KEY = 'XXXXX'
 client_id = f'{APP_ID}-{APP_TYPE}'
 
-FY_ID = "XG08629"  # Your fyers ID
+FY_ID = "XXXXXXZ"  # Your fyers ID
 APP_ID_TYPE = "2"  # Keep default as 2, It denotes web login
 TOTP_KEY = "XXXXXXXXXXXXXXXXXXXXXXXXXXX"  # TOTP secret is generated when we enable 2Factor TOTP from myaccount portal
 PIN = "XXXX"  # User pin for fyers account
