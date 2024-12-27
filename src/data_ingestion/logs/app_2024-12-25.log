@@ -1,0 +1,71 @@
+2024-12-25 18:59:52,103 - INFO - volumeChecker - ----------volumeChecker-----------
+2024-12-25 18:59:52,103 - INFO - volumeChecker - Started
+2024-12-25 18:59:53,136 - INFO - volumeChecker - File downloaded and extracted successfully!
+2024-12-25 18:59:53,631 - INFO - volumeChecker - File downloaded and extracted successfully!
+2024-12-25 18:59:53,774 - INFO - volumeChecker - Failed to download from new URL. Status code: 404
+2024-12-25 18:59:53,774 - INFO - volumeChecker - Updating inactivity period
+2024-12-25 18:59:53,774 - INFO - volumeChecker - Updated inactivity period
+2024-12-25 18:59:53,774 - CRITICAL - volumeChecker - An error occurred while downloading file: [Errno 2] No such file or directory: ''
+2024-12-25 18:59:53,884 - INFO - volumeChecker - Failed to download from new URL. Status code: 404
+2024-12-25 18:59:53,884 - INFO - volumeChecker - Updating inactivity period
+2024-12-25 18:59:53,884 - INFO - volumeChecker - Updated inactivity period
+2024-12-25 18:59:53,884 - CRITICAL - volumeChecker - An error occurred while downloading file: [Errno 2] No such file or directory: ''
+2024-12-25 18:59:54,131 - INFO - volumeChecker - File downloaded and extracted successfully!
+2024-12-25 18:59:54,353 - INFO - volumeChecker - File downloaded and extracted successfully!
+2024-12-25 18:59:54,642 - INFO - volumeChecker - File downloaded and extracted successfully!
+2024-12-25 18:59:54,942 - INFO - volumeChecker - File downloaded and extracted successfully!
+2024-12-25 18:59:55,188 - INFO - volumeChecker - File downloaded and extracted successfully!
+2024-12-25 18:59:55,296 - INFO - volumeChecker - Failed to download from new URL. Status code: 404
+2024-12-25 18:59:55,297 - INFO - volumeChecker - Updating inactivity period
+2024-12-25 18:59:55,297 - INFO - volumeChecker - Updated inactivity period
+2024-12-25 18:59:55,297 - CRITICAL - volumeChecker - An error occurred while downloading file: [Errno 2] No such file or directory: ''
+2024-12-25 18:59:55,436 - INFO - volumeChecker - Failed to download from new URL. Status code: 404
+2024-12-25 18:59:55,436 - INFO - volumeChecker - Updating inactivity period
+2024-12-25 18:59:55,436 - INFO - volumeChecker - Updated inactivity period
+2024-12-25 18:59:55,436 - CRITICAL - volumeChecker - An error occurred while downloading file: [Errno 2] No such file or directory: ''
+2024-12-25 18:59:55,726 - INFO - volumeChecker - File downloaded and extracted successfully!
+2024-12-25 18:59:56,008 - INFO - volumeChecker - File downloaded and extracted successfully!
+2024-12-25 18:59:56,218 - INFO - volumeChecker - File downloaded and extracted successfully!
+2024-12-25 18:59:56,677 - INFO - volumeChecker - File downloaded and extracted successfully!
+2024-12-25 18:59:56,924 - INFO - volumeChecker - File downloaded and extracted successfully!
+2024-12-25 18:59:57,031 - INFO - volumeChecker - Failed to download from new URL. Status code: 404
+2024-12-25 18:59:57,031 - INFO - volumeChecker - Updating inactivity period
+2024-12-25 18:59:57,031 - INFO - volumeChecker - Updated inactivity period
+2024-12-25 18:59:57,031 - CRITICAL - volumeChecker - An error occurred while downloading file: [Errno 2] No such file or directory: ''
+2024-12-25 18:59:57,197 - INFO - volumeChecker - Failed to download from new URL. Status code: 404
+2024-12-25 18:59:57,198 - INFO - volumeChecker - Updating inactivity period
+2024-12-25 18:59:57,198 - INFO - volumeChecker - Updated inactivity period
+2024-12-25 18:59:57,198 - CRITICAL - volumeChecker - An error occurred while downloading file: [Errno 2] No such file or directory: ''
+2024-12-25 18:59:57,468 - INFO - volumeChecker - File downloaded and extracted successfully!
+2024-12-25 18:59:58,655 - INFO - volumeChecker - File downloaded and extracted successfully!
+2024-12-25 18:59:58,958 - INFO - volumeChecker - File downloaded and extracted successfully!
+2024-12-25 18:59:59,215 - INFO - volumeChecker - File downloaded and extracted successfully!
+2024-12-25 18:59:59,470 - INFO - volumeChecker - File downloaded and extracted successfully!
+2024-12-25 18:59:59,697 - INFO - volumeChecker - Failed to download from new URL. Status code: 404
+2024-12-25 18:59:59,697 - INFO - volumeChecker - Updating inactivity period
+2024-12-25 18:59:59,697 - INFO - volumeChecker - Updated inactivity period
+2024-12-25 18:59:59,698 - CRITICAL - volumeChecker - An error occurred while downloading file: [Errno 2] No such file or directory: ''
+2024-12-25 18:59:59,841 - INFO - volumeChecker - Failed to download from new URL. Status code: 404
+2024-12-25 18:59:59,841 - INFO - volumeChecker - Updating inactivity period
+2024-12-25 18:59:59,841 - INFO - volumeChecker - Updated inactivity period
+2024-12-25 18:59:59,841 - CRITICAL - volumeChecker - An error occurred while downloading file: [Errno 2] No such file or directory: ''
+2024-12-25 19:00:00,064 - INFO - volumeChecker - File downloaded and extracted successfully!
+2024-12-25 19:00:00,289 - INFO - volumeChecker - File downloaded and extracted successfully!
+2024-12-25 19:00:00,560 - INFO - volumeChecker - File downloaded and extracted successfully!
+2024-12-25 19:00:00,802 - INFO - volumeChecker - File downloaded and extracted successfully!
+2024-12-25 19:00:01,072 - INFO - volumeChecker - File downloaded and extracted successfully!
+2024-12-25 19:00:01,173 - INFO - volumeChecker - Failed to download from new URL. Status code: 404
+2024-12-25 19:00:01,173 - INFO - volumeChecker - Updating inactivity period
+2024-12-25 19:00:01,173 - INFO - volumeChecker - Updated inactivity period
+2024-12-25 19:00:01,173 - CRITICAL - volumeChecker - An error occurred while downloading file: [Errno 2] No such file or directory: ''
+2024-12-25 19:00:01,272 - INFO - volumeChecker - Failed to download from new URL. Status code: 404
+2024-12-25 19:00:01,272 - INFO - volumeChecker - Updating inactivity period
+2024-12-25 19:00:01,272 - INFO - volumeChecker - Updated inactivity period
+2024-12-25 19:00:01,272 - CRITICAL - volumeChecker - An error occurred while downloading file: [Errno 2] No such file or directory: ''
+2024-12-25 19:00:01,521 - INFO - volumeChecker - File downloaded and extracted successfully!
+2024-12-25 19:00:01,792 - INFO - volumeChecker - File downloaded and extracted successfully!
+2024-12-25 19:00:01,922 - INFO - volumeChecker - Failed to download from new URL. Status code: 404
+2024-12-25 19:00:01,922 - INFO - volumeChecker - Updating inactivity period
+2024-12-25 19:00:01,922 - INFO - volumeChecker - Updated inactivity period
+2024-12-25 19:00:01,922 - CRITICAL - volumeChecker - An error occurred while downloading file: [Errno 2] No such file or directory: ''
+2024-12-25 19:00:02,155 - INFO - volumeChecker - File downloaded and extracted successfully!
